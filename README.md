@@ -4,7 +4,9 @@ Hello! My name is Marques Cooper. I am an experienced IT professional with a bac
 ## Overview
 I have developed a cybersecurity portfolio showcasing various tasks and projects completed during my journey to becoming a SOC Analyst. My goal is to demonstrate my expertise in cybersecurity, networking, and incident response by documenting each project with diagrams, logs, attack simulations, and reports to create a comprehensive showcase of my skills. 
 
-Each project is meticulously documented with diagrams, logs, attack simulations, and detailed reports, providing a structured and insightful look into my technical capabilities. To create a realistic and immersive experience, I have assumed the role of a Security Analyst at 555Lab, applying industry best practices to simulated security scenarios.
+Each project is meticulously documented with diagrams, logs, attack simulations, and detailed reports, providing a structured and insightful look into my technical capabilities. To enhance realism and provide an immersive experience, I have assumed the role of a Security Analyst at the fictional company "555Lab", applying industry best practices to simulated security scenarios. 
+
+This portfolio serves as a testament to my analytical abilities, problem-solving approach, and hands-on experience in cybersecurity operations.
 
 ## Skills  
 | Labs | Skills/Knowledge Gained | 
