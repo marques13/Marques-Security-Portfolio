@@ -1,0 +1,8 @@
+Objectives: 
+    1. Implement VLAN segmentation -
+        VLAN 10: Security subnet (SIEM, IDS, firewall).
+        VLAN 20: Internal server subnet (AD).
+        VLAN 30: Web server subnet (DMZ, public-facing services).
+        VLAN 40: Client/corporate subnet (workstations).
+
+***WIP***

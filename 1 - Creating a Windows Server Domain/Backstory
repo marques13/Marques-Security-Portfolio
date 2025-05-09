@@ -1,0 +1,14 @@
+Scenario: 555Lab is expanding its operations and needs a centralized authentication system for employees. The IT team is tasked with setting up a Windows Server domain to manage user authentication, enforce security policies, and streamline access control.
+
+Goals:
+    - Deploy Windows Server 2022 as a Domain Controller (DC).
+    - Configure Active Directory (AD) with Organizational Units (OUs) for different departments (IT, HR, Finance, Security).
+    - Implement Group Policy Objects (GPOs) to enforce security settings (password policies, software restrictions).
+    - Set up DNS and DHCP for network services.
+    - Create service accounts for critical applications.
+
+Challenges:
+    - Ensuring secure delegation of administrative privileges. (?)
+    - Preventing unauthorized access through RBAC (Role-Based Access Control).
+
+***WIP***

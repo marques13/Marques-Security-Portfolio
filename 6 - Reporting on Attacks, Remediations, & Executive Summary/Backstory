@@ -1,0 +1,20 @@
+Scenario: After a simulated breach, the Blue Team must analyze the attack, recommend remediations, and write an executive summary for leadership.
+
+Report Goals:
+    - Identify the Root Cause:
+        How did the attacker gain access?
+        What vulnerabilities were exploited?
+    - Recommend Remediations:
+        Patch vulnerable services.
+        Strengthen RBAC and network segmentation.
+        Improve employee cybersecurity training.
+    - Provide an Executive Summary:
+        High-level overview for CISO & executives.
+        Business impact and cost analysis.
+        Lessons learned and future security improvements.
+
+Challenges:
+    - Communicating technical findings in a way executives understand.
+    - Ensuring remediation steps are actionable and effective.
+
+***WIP***

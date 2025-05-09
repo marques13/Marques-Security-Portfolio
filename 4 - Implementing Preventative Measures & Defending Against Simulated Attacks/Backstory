@@ -1,0 +1,17 @@
+Scenario: 555Lab’s Red Team is conducting simulated attacks using Atomic Red Team. The Blue Team must implement preventative measures and defend against threats.
+
+Goals:
+    - Enable BitLocker on workstations and TLS for web servers.
+    - Deploy a deceptive server to lure attackers.
+    - Implement 802.1X for device authentication.
+    - Restrict access to sensitive resources based on roles.
+    - Simulate Attacks:
+        1. Phishing campaign targeting employees.
+        2. Privilege escalation attempts on Windows Server.
+        3. Lateral movement from a compromised workstation.
+
+Challenges:
+    - Detecting zero-day exploits.
+    - Preventing credential theft via phishing.
+
+***WIP***

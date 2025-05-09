@@ -1,0 +1,17 @@
+Scenario: 555Lab is transitioning to a virtualized infrastructure using Hyper-V. The network must be segmented into VLANs for security and efficiency.
+
+Goals:
+    - Configure Hyper-V virtual switches for VLAN tagging.
+    - Implement VLAN segmentation:
+        VLAN 10: Security subnet (SIEM, IDS, firewall).
+        VLAN 20: Internal server subnet (AD).
+        VLAN 30: Web server subnet (DMZ, public-facing services).
+        VLAN 40: Client/corporate subnet (workstations).
+    - Set up inter-VLAN routing via OPNsense.
+    - Provide a network diagram detailing IP ranges, firewall rules, and traffic flow.
+
+Challenges:
+    - Preventing unauthorized lateral movement between VLANs.
+    - Ensuring proper firewall rules for DMZ protection.
+
+***WIP***

@@ -1,0 +1,13 @@
+Scenario: 555Lab’s CISO mandates the deployment of ELK + Wazuh (SIEM) and Suricata (NIDS) to enhance threat detection and response.
+
+Goals:
+Deploy ELK + Wazuh to collect logs from Windows Server, firewall, IDS, and endpoints.
+Configure Suricata to monitor network traffic for anomalies.
+Set up ELK + Wazuh dashboards for real-time threat analysis.
+Implement alerting mechanisms for suspicious activity (failed logins, privilege escalation attempts).
+
+Challenges:
+    - Fine-tuning Suricata and Zeek rules to reduce false positives.
+    - Ensuring log integrity and preventing tampering.
+
+***WIP***

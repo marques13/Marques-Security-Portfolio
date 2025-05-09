@@ -1,0 +1,6 @@
+Objectives: 
+    1. Provide a network diagram detailing IP ranges, firewall rules, and traffic flow.
+    2. Ensure that we're preventing unauthorized lateral movement between VLANs.
+    3. Ensuring proper firewall rules for DMZ protection.
+
+***WIP***
