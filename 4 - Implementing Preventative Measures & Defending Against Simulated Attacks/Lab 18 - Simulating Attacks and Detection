@@ -1,1 +1,6 @@
+Objectives: Simulate Attacks -
+        1. Phishing campaign targeting employees.
+        2. Privilege escalation attempts on Windows Server.
+        3. Lateral movement from a compromised workstation.
+
 ***WIP***
