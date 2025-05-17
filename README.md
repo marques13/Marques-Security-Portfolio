@@ -2,7 +2,7 @@
 Hello! My name is Marques Cooper. I am an experienced IT professional with a background in coding, systems, networking, security, and pentesting. I am looking to leverage my expertise in desktop support, network management, server maintenance, and security administration to contribute to and help grow a dynamic team. My goal is to work towards becoming a Security Analyst. I am currently working towards obtaining the Security Blue Team Level 1 certification.
 
 ## 🎯 Overview
-I have developed a cybersecurity portfolio showcasing various tasks and projects completed during my journey to becoming a SOC Analyst. My goal is to demonstrate my expertise in cybersecurity, networking, and incident response by documenting each project with diagrams, logs, attack simulations, and reports to create a comprehensive showcase of my skills. 
+I have developed a cybersecurity portfolio showcasing various tasks and projects completed during my journey to becoming a SOC Analyst. My goal is to demonstrate my expertise in security, networking, and incident response by documenting each project with diagrams, logs, attack simulations, and reports to create a comprehensive showcase of my skills. 
 
 Each project is meticulously documented with diagrams, logs, attack simulations, and detailed reports, providing a structured and insightful look into my technical capabilities. To enhance realism and provide an immersive experience, I have assumed the role of a Security Analyst at the fictional company "555Lab", applying industry best practices to simulated security scenarios. 
 
